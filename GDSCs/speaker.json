@@ -1,0 +1,49 @@
+{
+    "data":[
+        {
+            "name":"Nikita Gandhi",
+            "desigination":"Community Manager, Google Developers",
+            "linkdeln":"https://www.linkedin.com/in/nikita-gandhi01",
+            "twitter":"https://twitter.com/Nikkitagandhi",
+            "profile_img":"https://twitter.com/Nikkitagandhi/photo",
+            "day":"1",
+            "topic":"Flutter"
+        },
+        {
+            "name":"Ansh Mehra",
+            "desigination":"UX Designer at Zuddl",
+            "linkdeln":"https://www.linkedin.com/in/anshmehra24",
+            "twitter":"https://twitter.com/AnshMehraaa",
+            "profile_img":"https://twitter.com/AnshMehraaa/photo",
+            "day":"2",
+            "topic":"UI/UX"
+        },
+        {
+            "name":"Charu Choudha",
+            "desigination":"UX Designer at Google",
+            "linkdeln":"https://www.linkedin.com/in/charu-choudha",
+            "twitter":"https://twitter.com/CharuChoudha",
+            "profile_img":"https://twitter.com/CharuChoudha/photo",
+            "day":"1",
+            "topic":"UI/UX"
+        },
+        {
+            "name":"Sathish VJ",
+            "desigination":"Google Developer Expert",
+            "linkdeln":"https://www.linkedin.com/in/sathishvj",
+            "twitter":"https://twitter.com/sathishvj",
+            "profile_img":"https://twitter.com/sathishvj/photo",
+            "day":"2",
+            "topic":"Cloud"
+        },
+        {
+            "name":"Dharmesh Vaya",
+            "desigination":"Google Developer Expert",
+            "linkdeln":"https://www.linkedin.com/in/dharmeshvaya",
+            "twitter":"https://twitter.com/DRVaya",
+            "profile_img":"https://twitter.com/DRVaya/photo",
+            "day":"3",
+            "topic":"Cloud"
+        }
+    ]
+}
