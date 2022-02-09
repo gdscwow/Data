@@ -10,15 +10,6 @@
             "topic":"Flutter"
         },
         {
-            "name":"Ansh Mehra",
-            "desigination":"UX Designer at Zuddl",
-            "linkdeln":"https://www.linkedin.com/in/anshmehra24",
-            "twitter":"https://twitter.com/AnshMehraaa",
-            "profile_img":"https://pbs.twimg.com/profile_images/1431433170885382147/yfUUs2ec_400x400.jpg",
-            "day":"2",
-            "topic":"UI/UX"
-        },
-        {
             "name":"Charu Choudha",
             "desigination":"UX Designer at Google",
             "linkdeln":"https://www.linkedin.com/in/charu-choudha",
@@ -35,6 +26,15 @@
             "profile_img":"https://pbs.twimg.com/profile_images/445544781314154496/IiMAmfqu_400x400.jpeg",
             "day":"2",
             "topic":"Cloud"
+        },
+        {
+            "name":"Ansh Mehra",
+            "desigination":"UX Designer at Zuddl",
+            "linkdeln":"https://www.linkedin.com/in/anshmehra24",
+            "twitter":"https://twitter.com/AnshMehraaa",
+            "profile_img":"https://pbs.twimg.com/profile_images/1431433170885382147/yfUUs2ec_400x400.jpg",
+            "day":"2",
+            "topic":"UI/UX"
         },
         {
             "name":"Dharmesh Vaya",
