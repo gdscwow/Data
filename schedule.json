@@ -4,7 +4,7 @@
 			"time": "5:00 PM",
 			"imageURL": "https://pbs.twimg.com/media/FHEPCSyXoAM1ER1?format=jpg&name=900x900",
 			"eventName": "Let's fly through flutter",
-			"speaker": "Speaker Coming Soon",
+			"speaker": "Nikita Gandhi",
 			"color": "#b3cffb"
 		},
 		{
@@ -18,7 +18,7 @@
 			"time": "6:20 PM",
 			"imageURL": "https://img.youtube.com/vi/1GqSbJCUHJM/maxresdefault.jpg",
 			"eventName": "Aesthetic User Interfaces",
-			"speaker": "Speaker Coming Soon",
+			"speaker": "Charu Choudha",
 			"color": "#f7b3ae"
 		},
 		{
@@ -34,7 +34,14 @@
 			"eventName": "Let your chains get blocked",
 			"speaker": "Speaker Coming Soon",
 			"color": "#b3cffb"
-		}
+		},
+    {
+			"time": "8:20 PM",
+			"imageURL": "https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+			"eventName": "Let your Clouds Thunder",
+			"speaker": "Speaker Coming Soon",
+			"color": "#f7b3ae"
+		},
 	],
 	[
 		{
@@ -55,7 +62,7 @@
 			"time": "6:20 PM",
 			"imageURL": "https://img.youtube.com/vi/1GqSbJCUHJM/maxresdefault.jpg",
 			"eventName": "Future of Interface designing",
-			"speaker": "Speaker Coming Soon",
+			"speaker": "Ansh Mehra",
 			"color": "#f7b3ae"
 		},
 		{
@@ -71,7 +78,14 @@
 			"eventName": "Introduction to Web 3.0",
 			"speaker": "Speaker Coming Soon",
 			"color": "#b3cffb"
-		}
+		},
+    {
+			"time": "8:20 PM",
+			"imageURL": "https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+			"eventName": "What's above the Clouds",
+			"speaker": "Sathish VJ",
+			"color": "#f7b3ae"
+		},
 	],
 	[
 		{
@@ -108,6 +122,13 @@
 			"eventName": "Let's Build the Chains",
 			"speaker": "Speaker Coming Soon",
 			"color": "#b3cffb"
-		}
+		},
+    {
+			"time": "8:20 PM",
+			"imageURL": "https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+			"eventName": "Let's build the Cloud",
+			"speaker": "Dharmesh Vaya",
+			"color": "#f7b3ae"
+		},
 	]
 ]
