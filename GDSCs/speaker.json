@@ -19,6 +19,24 @@
             "topic":"UI/UX"
         },
         {
+            "name":"Deven Joshi",
+            "desigination":"Google Developer Expert",
+            "linkdeln":"https://www.linkedin.com/in/deven-joshi-815725b8/",
+            "twitter":"https://twitter.com/DevenJoshi7",
+            "profile_img":"https://pbs.twimg.com/profile_images/1485713364005568517/_VwtLFrL_400x400.jpg",
+            "day":"2",
+            "topic":"Flutter"
+        },
+        {
+            "name":"Punit Chawla",
+            "desigination":"Founder at DesignWings",
+            "linkdeln":"https://www.linkedin.com/in/punitweb/",
+            "twitter":"https://twitter.com/punitweb3",
+            "profile_img":"https://pbs.twimg.com/profile_images/1489231521336918019/g0LmlLR5_400x400.jpg",
+            "day":"2",
+            "topic":"Web"
+        },
+        {
             "name":"Sathish VJ",
             "desigination":"Google Developer Expert",
             "linkdeln":"https://www.linkedin.com/in/sathishvj",
