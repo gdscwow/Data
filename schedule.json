@@ -9,7 +9,7 @@
         },
         {
             "time":"5:40 PM",
-            "imageURL":"https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
             "eventName":"Let your Clouds Thunder",
             "speaker":"Pritam Sahoo",
             "color":"#f7b3ae"
@@ -46,7 +46,7 @@
         },
         {
             "time":"5:40 PM",
-            "imageURL":"https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
             "eventName":"What's above the Clouds",
             "speaker":"Sathish VJ",
             "color":"#f7b3ae"
@@ -83,7 +83,7 @@
         },
         {
             "time":"5:40 PM",
-            "imageURL":"https://www.googlecloudpresscorner.com/image/Google_Cloud_App_Dev.max-2200x2200.png",
+            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
             "eventName":"Let's build the Cloud",
             "speaker":"Dharmesh Vaya",
             "color":"#f7b3ae"
@@ -105,7 +105,7 @@
         {
             "time":"7:40 PM",
             "imageURL":"https://careers.google.com/jobs/dist/img/assets/step-4_1x.f4e61edbd4e05f77ec4bf7032d030fc9.png",
-            "eventName":"How to start your carrer",
+            "eventName":"How to Start your Carrer",
             "speaker":"Mentro",
             "color":"#9fd8bc"
         }
