@@ -1,113 +1,113 @@
 [
-    [
-        {
-            "time":"5:00 PM",
-            "imageURL":"https://pbs.twimg.com/media/FHEPCSyXoAM1ER1?format=jpg&name=900x900",
-            "eventName":"Let's fly through flutter",
-            "speaker":"Nikita Gandhi",
-            "color":"#b3cffb"
-        },
-        {
-            "time":"5:40 PM",
-            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
-            "eventName":"Let your Clouds Thunder",
-            "speaker":"Pritam Sahoo",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"6:20 PM",
-            "imageURL":"https://www.google.com/chrome/static/images/homepage/homepage.png",
-            "eventName":"Cab to web",
-            "speaker":"Anuradha Kumari",
-            "color":"#fde59a"
-        },
-        {
-            "time":"7:00 PM",
-            "imageURL":"https://img.youtube.com/vi/1GqSbJCUHJM/maxresdefault.jpg",
-            "eventName":"Aesthetic User Interfaces",
-            "speaker":"Charu Choudha",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"7:40 PM",
-            "imageURL":"https://miro.medium.com/max/875/1*eWaR0HeJSwGbIvygkFZUGg.png",
-            "eventName":"Check out the relation between human and machine",
-            "speaker":"Usha Rengaraju",
-            "color":"#9fd8bc"
-        }
-    ],
-    [
-        {
-            "time":"5:00 PM",
-            "imageURL":"https://pbs.twimg.com/media/FHEPCSyXoAM1ER1?format=jpg&name=900x900",
-            "eventName":"Future of Flutter",
-            "speaker":"Deven Joshi",
-            "color":"#b3cffb"
-        },
-        {
-            "time":"5:40 PM",
-            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
-            "eventName":"What's above the Clouds",
-            "speaker":"Sathish VJ",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"6:20 PM",
-            "imageURL":"https://www.google.com/chrome/static/images/homepage/homepage.png",
-            "eventName":"Sticking out through the web",
-            "speaker":"Vrijraj Singh",
-            "color":"#fde59a"
-        },
-        {
-            "time":"7:00 PM",
-            "imageURL":"https://img.youtube.com/vi/1GqSbJCUHJM/maxresdefault.jpg",
-            "eventName":"Future of Interface designing",
-            "speaker":"Ansh Mehra",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"7:40 PM",
-            "imageURL":"https://miro.medium.com/max/875/1*eWaR0HeJSwGbIvygkFZUGg.png",
-            "eventName":"Entering the world of A.I",
-            "speaker":"Bhavesh Bhatt",
-            "color":"#9fd8bc"
-        }
-    ],
-    [
-        {
-            "time":"5:00 PM",
-            "imageURL":"https://pbs.twimg.com/media/FHEPCSyXoAM1ER1?format=jpg&name=900x900",
-            "eventName":"Let's Utter Some Flutter",
-            "speaker":"Pawan Kumar",
-            "color":"#b3cffb"
-        },
-        {
-            "time":"5:40 PM",
-            "imageURL":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Cloud_-_Cloud_Covered.max-1000x1000.jpg",
-            "eventName":"Let's build the Cloud",
-            "speaker":"Dharmesh Vaya",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"6:20 PM",
-            "imageURL":"https://www.google.com/chrome/static/images/homepage/homepage.png",
-            "eventName":"Let's Work with Webpages",
-            "speaker":"Kartik Derasari",
-            "color":"#fde59a"
-        },
-        {
-            "time":"7:00 PM",
-            "imageURL":"https://img.youtube.com/vi/1GqSbJCUHJM/maxresdefault.jpg",
-            "eventName":"Let's be the User and Experience the Interface",
-            "speaker":"Punit Chawla",
-            "color":"#f7b3ae"
-        },
-        {
-            "time":"7:40 PM",
-            "imageURL":"https://careers.google.com/jobs/dist/img/assets/step-4_1x.f4e61edbd4e05f77ec4bf7032d030fc9.png",
-            "eventName":"How to Start your Carrer",
-            "speaker":"Mentro",
-            "color":"#9fd8bc"
-        }
-    ]
+  [
+    {
+      "time": "5:20 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/1.png",
+      "eventName": "Let's fly through flutter",
+      "speaker": "Nikita Gandhi",
+      "color": "#b3cffb"
+    },
+    {
+      "time": "5:55 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/2.png",
+      "eventName": "Let your Clouds Thunder",
+      "speaker": "Pritam Sahoo",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "6:30 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Cab to web",
+      "speaker": "Anuradha Kumari",
+      "color": "#fde59a"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
+      "eventName": "Aesthetic User Interfaces",
+      "speaker": "Charu Choudha",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "7:40 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/5.png",
+      "eventName": "Check out the relation between human and machine",
+      "speaker": "Usha Rengaraju",
+      "color": "#9fd8bc"
+    }
+  ],
+  [
+    {
+      "time": "5:20 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/1.png",
+      "eventName": "Future of Flutter",
+      "speaker": "Deven Joshi",
+      "color": "#b3cffb"
+    },
+    {
+      "time": "5:55 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/2.png",
+      "eventName": "What's above the Clouds",
+      "speaker": "Sathish VJ",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "6:30 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Sticking out through the web",
+      "speaker": "Vrijraj Singh",
+      "color": "#fde59a"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
+      "eventName": "Future of Interface designing",
+      "speaker": "Ansh Mehra",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "7:40 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/5.png",
+      "eventName": "Entering the world of A.I",
+      "speaker": "Bhavesh Bhatt",
+      "color": "#9fd8bc"
+    }
+  ],
+  [
+    {
+      "time": "5:20 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/1.png",
+      "eventName": "Let's Utter Some Flutter",
+      "speaker": "Pawan Kumar",
+      "color": "#b3cffb"
+    },
+    {
+      "time": "5:55 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/2.png",
+      "eventName": "Let's build the Cloud",
+      "speaker": "Dharmesh Vaya",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "6:30 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Let's Work with Webpages",
+      "speaker": "Kartik Derasari",
+      "color": "#fde59a"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
+      "eventName": "Let's be the User and Experience the Interface",
+      "speaker": "Punit Chawla",
+      "color": "#f7b3ae"
+    },
+    {
+      "time": "7:40 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/6.png",
+      "eventName": "How to Start your Carrer",
+      "speaker": "Mentro",
+      "color": "#9fd8bc"
+    }
+  ]
 ]
