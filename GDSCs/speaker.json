@@ -10,15 +10,6 @@
             "topic":"Flutter"
         },
         {
-            "name":"Charu Choudha",
-            "desigination":"UX Designer at Google",
-            "linkdeln":"https://www.linkedin.com/in/charu-choudha",
-            "twitter":"https://twitter.com/CharuChoudha",
-            "profile_img":"https://pbs.twimg.com/profile_images/1487375767550164996/pfPj0Us2_400x400.jpg",
-            "day":"1",
-            "topic":"UI/UX"
-        },
-        {
             "name":"Deven Joshi",
             "desigination":"Google Developer Expert",
             "linkdeln":"https://www.linkedin.com/in/deven-joshi-815725b8/",
@@ -27,23 +18,50 @@
             "day":"2",
             "topic":"Flutter"
         },
+         {
+            "name":"Pawan Kumar",
+            "desigination":"Google Developer Expert (Flutter, Firebase, Dart)",
+            "linkdeln":"https://linkedin.com/in/imthepk",
+            "twitter":"https://twitter.com/imthepk",
+            "profile_img":"https://twitter.com/imthepk/photo",
+            "day":"3",
+            "topic":"Flutter"
+        },
         {
-            "name":"Punit Chawla",
-            "desigination":"Founder at DesignWings",
-            "linkdeln":"https://www.linkedin.com/in/punitweb/",
-            "twitter":"https://twitter.com/punitweb3",
-            "profile_img":"https://pbs.twimg.com/profile_images/1489231521336918019/g0LmlLR5_400x400.jpg",
-            "day":"2",
-            "topic":"Web"
+            "name":"Pritam Sahoo",
+            "desigination":"Partner Cloud Architect @Google",
+            "linkdeln":"https://in.linkedin.com/in/pritam-sahoo-77a438a",
+            "twitter":"https://twitter.com/pritamsahoo",
+            "profile_img":"https://devfestindia.com/img/pritam-sahoo.f908952d.jpg",
+            "day":"1",
+            "topic":"Cloud"
         },
         {
             "name":"Sathish VJ",
-            "desigination":"Google Developer Expert",
+            "desigination":"Google Developer Expert (GCP)",
             "linkdeln":"https://www.linkedin.com/in/sathishvj",
             "twitter":"https://twitter.com/sathishvj",
             "profile_img":"https://pbs.twimg.com/profile_images/445544781314154496/IiMAmfqu_400x400.jpeg",
             "day":"2",
             "topic":"Cloud"
+        },
+        {
+            "name":"Dharmesh Vaya",
+            "desigination":"Google Developer Expert (GCP)",
+            "linkdeln":"https://www.linkedin.com/in/dharmeshvaya",
+            "twitter":"https://twitter.com/DRVaya",
+            "profile_img":"https://pbs.twimg.com/profile_images/1262676803669200896/6jT8gUSw_400x400.jpg",
+            "day":"3",
+            "topic":"Cloud"
+        }
+        {
+            "name":"Charu Choudha",
+            "desigination":"UX Designer at Google",
+            "linkdeln":"https://www.linkedin.com/in/charu-choudha",
+            "twitter":"https://twitter.com/CharuChoudha",
+            "profile_img":"https://pbs.twimg.com/profile_images/1487375767550164996/pfPj0Us2_400x400.jpg",
+            "day":"1",
+            "topic":"UI/UX"
         },
         {
             "name":"Ansh Mehra",
@@ -55,13 +73,58 @@
             "topic":"UI/UX"
         },
         {
-            "name":"Dharmesh Vaya",
-            "desigination":"Google Developer Expert",
-            "linkdeln":"https://www.linkedin.com/in/dharmeshvaya",
-            "twitter":"https://twitter.com/DRVaya",
-            "profile_img":"https://pbs.twimg.com/profile_images/1262676803669200896/6jT8gUSw_400x400.jpg",
+            "name":"Punit Chawla",
+            "desigination":"Founder at DesignWings",
+            "linkdeln":"https://www.linkedin.com/in/punitweb",
+            "twitter":"https://twitter.com/punitweb3",
+            "profile_img":"https://pbs.twimg.com/profile_images/1489231521336918019/g0LmlLR5_400x400.jpg",
             "day":"3",
-            "topic":"Cloud"
+            "topic":"UI/UX"
+        },
+       {
+            "name":"Anuradha Kumari",
+            "desigination":"Google Developer Expert (Web Technologies)",
+            "linkdeln":"https://www.linkedin.com/in/anuradha15/",
+            "twitter":"https://www.twitter.com/miracle_404",
+            "profile_img":"https://twitter.com/miracle_404/photo",
+            "day":"1",
+            "topic":"Web"
+        },
+        {
+            "name":"Vrijraj Singh",
+            "desigination":"Google Developer Expert (Firebase & Web Technologies)",
+            "linkdeln":"https://www.linkedin.com/in/vrijrajsingh/",
+            "twitter":"https://twitter.com/VrijrajSingh",
+            "profile_img":"https://devfestindia.com/img/Vrijraj.1b8b2eaa.jpg",
+            "day":"2",
+            "topic":"Web"
+        },
+        {
+            "name":"Kartik Derasari",
+            "desigination":"Full Stack Developer - MediaAgility",
+            "linkdeln":"https://www.linkedin.com/in/kartikderasari/",
+            "twitter":"https://twitter.com/kartik_derasari",
+            "profile_img":"https://avatars.githubusercontent.com/u/40170425?v=4",
+            "day":"3",
+            "topic":"Web"
+        },
+        {
+            "name":"Usha Rengaraju",
+            "desigination":"Principal Data Scientist | Polymath | Founder @ NeuroAI",
+            "linkdeln":"https://www.linkedin.com/in/usha-rengaraju-b570b7a2/",
+            "twitter":"https://twitter.com/Urengaraju",
+            "profile_img":"https://media-exp1.licdn.com/dms/image/C4D03AQHpl8zfF9cYmQ/profile-displayphoto-shrink_800_800/0/1605122404671?e=1650499200&v=beta&t=gc5WJtCoejeEjeRUd6A1zGNR5EloLC1uLxhWK5cftYs",
+            "day":"1",
+            "topic":"AI / ML"
+        },
+        {
+            "name":"Bhavesh Bhatt",
+            "desigination":"Google Developer Expert for ML | GitHub Star",
+            "linkdeln":"https://www.linkedin.com/in/bhattbhavesh91/",
+            "twitter":"https://twitter.com/_bhaveshbhatt",
+            "profile_img":"https://pbs.twimg.com/profile_images/1205922166862008320/pgPcp499_400x400.jpg",
+            "day":"2",
+            "topic":"AI / ML"
         }
     ]
 }
