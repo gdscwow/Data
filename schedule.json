@@ -16,17 +16,17 @@
     },
     {
       "time": "6:30 PM",
-      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
-      "eventName": "Cab to web",
-      "speaker": "Anuradha Kumari",
-      "color": "#fde59a"
-    },
-    {
-      "time": "7:05 PM",
       "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
       "eventName": "Aesthetic User Interfaces",
       "speaker": "Charu Choudha",
       "color": "#f7b3ae"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Cab to web",
+      "speaker": "Anuradha Kumari",
+      "color": "#fde59a"
     },
     {
       "time": "7:40 PM",
@@ -53,17 +53,17 @@
     },
     {
       "time": "6:30 PM",
-      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
-      "eventName": "Sticking out through the web",
-      "speaker": "Vrijraj Singh",
-      "color": "#fde59a"
-    },
-    {
-      "time": "7:05 PM",
       "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
       "eventName": "Future of Interface designing",
       "speaker": "Ansh Mehra",
       "color": "#f7b3ae"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Sticking out through the web",
+      "speaker": "Vrijraj Singh",
+      "color": "#fde59a"
     },
     {
       "time": "7:40 PM",
@@ -90,17 +90,17 @@
     },
     {
       "time": "6:30 PM",
-      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
-      "eventName": "Let's Work with Webpages",
-      "speaker": "Kartik Derasari",
-      "color": "#fde59a"
-    },
-    {
-      "time": "7:05 PM",
       "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/4.png",
       "eventName": "Let's be the User and Experience the Interface",
       "speaker": "Punit Chawla",
       "color": "#f7b3ae"
+    },
+    {
+      "time": "7:05 PM",
+      "imageURL": "https://raw.githubusercontent.com/gdscwow/Data/main/Domains/3.png",
+      "eventName": "Let's Work with Webpages",
+      "speaker": "Kartik Derasari",
+      "color": "#fde59a"
     },
     {
       "time": "7:40 PM",
