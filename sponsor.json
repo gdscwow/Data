@@ -8,6 +8,32 @@
             "linkedin":"https://in.linkedin.com/company/geeksforgeeks",
             "instagram":"https://www.instagram.com/geeks_for_geeks",
             "twitter":"https://twitter.com/geeksforgeeks"
+        },
+        {
+            "name":"Mentro",
+            "category":"Platinum",
+            "logo":"https://media-exp1.licdn.com/dms/image/C560BAQEvQZyeYOs9GQ/company-logo_200_200/0/1641365576259?e=1653523200&v=beta&t=JKIF2FaxSgv7zSwhTmeVJBd-kuVTeDZyfyMnqvRBlRg",
+            "website":"https://mentro.tech/",
+            "linkedin":"https://www.linkedin.com/company/mentro-official",
+            "instagram":"https://www.instagram.com/mentro_official/"
+        },
+        {
+            "name":"Virtual Cyber Labs",
+            "category":"Silver",
+            "logo":"https://virtualcyberlabs.com/",
+            "website":"https://www.geeksforgeeks.org",
+            "linkedin":"https://www.linkedin.com/company/virtual-cyber-labs/",
+            "instagram":"https://www.instagram.com/virtualcyberlabs/",
+            "twitter":"https://twitter.com/vcltechnology"
+        },
+        {
+            "name":"Floxus",
+            "category":"Silver",
+            "logo":"https://floxus.co/static/media/blue_logo.4d101660.svg",
+            "website":"https://floxus.co/",
+            "linkedin":"https://www.linkedin.com/company/floxusedu/",
+            "instagram":"https://www.instagram.com/floxus.education/",
+            "twitter":"https://twitter.com/Floxus2"
         }
     ]
 }
