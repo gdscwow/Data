@@ -36,23 +36,6 @@
          "twitter":"https://twitter.com/Floxus2"
       },
       {
-         "name":"Geeks For Geeks",
-         "category":"Title",
-         "logo":"https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png",
-         "website":"https://www.geeksforgeeks.org",
-         "linkedin":"https://in.linkedin.com/company/geeksforgeeks",
-         "instagram":"https://www.instagram.com/geeks_for_geeks",
-         "twitter":"https://twitter.com/geeksforgeeks"
-      },
-      {
-         "name":"Mentro",
-         "category":"Platinum",
-         "logo":"https://media-exp1.licdn.com/dms/image/C560BAQEvQZyeYOs9GQ/company-logo_200_200/0/1641365576259?e=1653523200&v=beta&t=JKIF2FaxSgv7zSwhTmeVJBd-kuVTeDZyfyMnqvRBlRg",
-         "website":"https://mentro.tech/",
-         "linkedin":"https://www.linkedin.com/company/mentro-official",
-         "instagram":"https://www.instagram.com/mentro_official/"
-      },
-      {
          "name":"Algozenith",
          "category":"Platinum",
          "logo":"https://pbs.twimg.com/profile_images/1450190409196396545/mYKk80Wn_400x400.jpg",
@@ -60,24 +43,6 @@
          "linkedin":"https://www.linkedin.com/company/algozenith/",
          "instagram":"https://www.instagram.com/algozenith/",
          "twitter":"https://twitter.com/AlgoZenith"
-      },
-      {
-         "name":"Virtual Cyber Labs",
-         "category":"Silver",
-         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/VCL.png",
-         "website":"https://www.geeksforgeeks.org",
-         "linkedin":"https://www.linkedin.com/company/virtual-cyber-labs/",
-         "instagram":"https://www.instagram.com/virtualcyberlabs/",
-         "twitter":"https://twitter.com/vcltechnology"
-      },
-      {
-         "name":"Floxus",
-         "category":"Silver",
-         "logo":"https://floxus.co/static/media/blue_logo.4d101660.svg",
-         "website":"https://floxus.co/",
-         "linkedin":"https://www.linkedin.com/company/floxusedu/",
-         "instagram":"https://www.instagram.com/floxus.education/",
-         "twitter":"https://twitter.com/Floxus2"
       },
       {
          "name":"Sketch",
