@@ -1,26 +1,26 @@
 {
-  day1: {
-    flutter: [],
-    web: [],
-    ai: [],
-    ui: [],
-    cloud: [],
-    th:[],
+  "day1": {
+    "flutter": [],
+    "web": [],
+    "ai": [],
+    "ui": [],
+    "cloud": [],
+    "th":[],
   },
-  day2: {
-    flutter: [],
-    web: [],
-    ai: [],
-    ui: [],
-    cloud: [],
-    th:[]
+  "day2": {
+    "flutter": [],
+    "web": [],
+    "ai": [],
+    "ui": [],
+    "cloud": [],
+    "th":[]
   },
-  day3: {
-    flutter: [],
-    web: [],
-    ai: [],
-    ui: [],
-    cloud: [],
-    th:[]
+  "day3": {
+    "flutter": [],
+    "web": [],
+    "ai": [],
+    "ui": [],
+    "cloud": [],
+    "th":[]
   }
 }
