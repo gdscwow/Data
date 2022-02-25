@@ -1,47 +1,100 @@
 {
-  "data": [
-    {
-      "name": "Geeks For Geeks",
-      "category": "Title",
-      "logo": "https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/GFG.png",
-      "website": "https://www.geeksforgeeks.org",
-      "linkedin": "https://in.linkedin.com/company/geeksforgeeks",
-      "instagram": "https://www.instagram.com/geeks_for_geeks",
-      "twitter": "https://twitter.com/geeksforgeeks"
-    },
-    {
-      "name": "Mentro",
-      "category": "Platinum",
-      "logo": "https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/Mentro.jpg",
-      "website": "https://mentro.tech/",
-      "linkedin": "https://www.linkedin.com/company/mentro-official",
-      "instagram": "https://www.instagram.com/mentro_official/"
-    },
-    {
-      "name": "Algozenith",
-      "category": "Platinum",
-      "logo": "https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/AlgoZenith.png",
-      "website": "https://algozenith.com/",
-      "linkedin": "https://www.linkedin.com/company/algozenith/",
-      "instagram": "https://www.instagram.com/algozenith/"
-    },
-    {
-      "name": "Virtual Cyber Labs",
-      "category": "Silver",
-      "logo": "https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/VCL.png",
-      "website": "https://virtualcyberlabs.com/",
-      "linkedin": "https://www.linkedin.com/company/virtual-cyber-labs/",
-      "instagram": "https://www.instagram.com/virtualcyberlabs/",
-      "twitter": "https://twitter.com/vcltechnology"
-    },
-    {
-      "name": "Floxus",
-      "category": "Silver",
-      "logo": "https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/Floxus.svg",
-      "website": "https://floxus.co/",
-      "linkedin": "https://www.linkedin.com/company/floxusedu/",
-      "instagram": "https://www.instagram.com/floxus.education/",
-      "twitter": "https://twitter.com/Floxus2"
-    }
-  ]
+   "data":[
+      {
+         "name":"Geeks For Geeks",
+         "category":"Title",
+         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/GFG.png",
+         "website":"https://www.geeksforgeeks.org",
+         "linkedin":"https://in.linkedin.com/company/geeksforgeeks",
+         "instagram":"https://www.instagram.com/geeks_for_geeks",
+         "twitter":"https://twitter.com/geeksforgeeks"
+      },
+      {
+         "name":"Mentro",
+         "category":"Platinum",
+         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/Mentro.jpg",
+         "website":"https://mentro.tech/",
+         "linkedin":"https://www.linkedin.com/company/mentro-official",
+         "instagram":"https://www.instagram.com/mentro_official/"
+      },
+      {
+         "name":"Virtual Cyber Labs",
+         "category":"Silver",
+         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/VCL.png",
+         "website":"https://virtualcyberlabs.com/",
+         "linkedin":"https://www.linkedin.com/company/virtual-cyber-labs/",
+         "instagram":"https://www.instagram.com/virtualcyberlabs/",
+         "twitter":"https://twitter.com/vcltechnology"
+      },
+      {
+         "name":"Floxus",
+         "category":"Silver",
+         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/Floxus.svg",
+         "website":"https://floxus.co/",
+         "linkedin":"https://www.linkedin.com/company/floxusedu/",
+         "instagram":"https://www.instagram.com/floxus.education/",
+         "twitter":"https://twitter.com/Floxus2"
+      },
+      {
+         "name":"Geeks For Geeks",
+         "category":"Title",
+         "logo":"https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png",
+         "website":"https://www.geeksforgeeks.org",
+         "linkedin":"https://in.linkedin.com/company/geeksforgeeks",
+         "instagram":"https://www.instagram.com/geeks_for_geeks",
+         "twitter":"https://twitter.com/geeksforgeeks"
+      },
+      {
+         "name":"Mentro",
+         "category":"Platinum",
+         "logo":"https://media-exp1.licdn.com/dms/image/C560BAQEvQZyeYOs9GQ/company-logo_200_200/0/1641365576259?e=1653523200&v=beta&t=JKIF2FaxSgv7zSwhTmeVJBd-kuVTeDZyfyMnqvRBlRg",
+         "website":"https://mentro.tech/",
+         "linkedin":"https://www.linkedin.com/company/mentro-official",
+         "instagram":"https://www.instagram.com/mentro_official/"
+      },
+      {
+         "name":"Algozenith",
+         "category":"Platinum",
+         "logo":"https://pbs.twimg.com/profile_images/1450190409196396545/mYKk80Wn_400x400.jpg",
+         "website":"https://algozenith.com/",
+         "linkedin":"https://www.linkedin.com/company/algozenith/",
+         "instagram":"https://www.instagram.com/algozenith/",
+         "twitter":"https://twitter.com/AlgoZenith"
+      },
+      {
+         "name":"Virtual Cyber Labs",
+         "category":"Silver",
+         "logo":"https://raw.githubusercontent.com/gdscwow/Data/main/Sponsors/VCL.png",
+         "website":"https://www.geeksforgeeks.org",
+         "linkedin":"https://www.linkedin.com/company/virtual-cyber-labs/",
+         "instagram":"https://www.instagram.com/virtualcyberlabs/",
+         "twitter":"https://twitter.com/vcltechnology"
+      },
+      {
+         "name":"Floxus",
+         "category":"Silver",
+         "logo":"https://floxus.co/static/media/blue_logo.4d101660.svg",
+         "website":"https://floxus.co/",
+         "linkedin":"https://www.linkedin.com/company/floxusedu/",
+         "instagram":"https://www.instagram.com/floxus.education/",
+         "twitter":"https://twitter.com/Floxus2"
+      },
+      {
+         "name":"Sketch",
+         "category":"Silver",
+         "logo":"https://pbs.twimg.com/profile_images/1493519382718435335/OY_vK1jD_400x400.png",
+         "website":"https://www.sketch.com/home/",
+         "instagram":"https://www.instagram.com/sketchformac/",
+         "twitter":"https://twitter.com/sketch"
+      },
+      {
+         "name":"Agora",
+         "category":"Gold",
+         "logo":"https://pbs.twimg.com/profile_images/1276224034078748672/-3I03M-K_400x400.png",
+         "website":"https://www.agora.io/en/",
+         "linkedin":"https://www.linkedin.com/company/agora-lab-inc/",
+         "instagram":"https://www.instagram.com/agora.io/",
+         "twitter":"https://twitter.com/AgoraIO"
+      }
+   ]
 }
