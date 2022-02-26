@@ -60,6 +60,15 @@
          "linkedin":"https://www.linkedin.com/company/agora-lab-inc/",
          "instagram":"https://www.instagram.com/agora.io/",
          "twitter":"https://twitter.com/AgoraIO"
+      },
+      {
+         "name":"Coding Ninja",
+         "category":"Silver",
+         "logo":"https://files.codingninjas.in/new-logo-03-11984.svg",
+         "website":"https://www.codingninjas.com/",
+         "linkedin":"https://www.linkedin.com/company/codingninjas/",
+         "instagram":"https://www.instagram.com/coding.ninjas/",
+         "twitter":"https://twitter.com/CodingNinjasOff"
       }
    ]
 }
