@@ -125,6 +125,15 @@
       "profile_img": "https://raw.githubusercontent.com/gdscwow/Data/main/Speakers/14.png",
       "day": "2",
       "topic": "AI / ML"
+    },
+    {
+      "name": "Jaideep Prasad",
+      "desigination": "CEO @Mentro",
+      "linkdeln": "https://www.linkedin.com/in/jaideep-prasad-117379167/",
+      "twitter": "https://twitter.com/jddeep003",
+      "profile_img": "https://raw.githubusercontent.com/gdscwow/Data/main/Speakers/15.png",
+      "day": "3",
+      "topic": "Career Development"
     }
   ]
 }
